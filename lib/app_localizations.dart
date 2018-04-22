@@ -20,8 +20,6 @@ class AppLocalizations {
     return Localizations.of<AppLocalizations>(context, AppLocalizations);
   }
 
-
-
   // Application
   String get title {
     return Intl.message(

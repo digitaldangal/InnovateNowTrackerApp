@@ -7,7 +7,7 @@ import 'app_localizations.dart';
 import 'widgets/thing/thing_localizations.dart';
 
 // Googlemaps
-import 'widgets/map/trackers_overview.dart';
+import 'widgets/map/tracker_map.dart';
 
 // Start op the application
 void main() {
@@ -43,7 +43,7 @@ class TrackerApp extends StatelessWidget {
 class HomePage extends StatefulWidget {
   HomePage({Key key, this.title}) : super(key: key);
 
-  // Application title 
+  // Application title
   final String title;
 
   @override
@@ -116,7 +116,7 @@ class _HomePageState extends State<HomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-              new TrackerOverview()
+              new TrackerMap()
             ],
         ),
       ),
