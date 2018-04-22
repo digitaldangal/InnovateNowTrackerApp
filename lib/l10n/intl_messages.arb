@@ -1,0 +1,111 @@
+{
+  "@@last_modified": "2018-04-17T21:24:02.368274",
+  "title": "InnovateNow Tracker",
+  "@title": {
+    "description": "Title for the Tracker application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "qrCode": "QR code",
+  "@qrCode": {
+    "description": "QR code label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "qrCodeTooltip": "Scan the provided QR code",
+  "@qrCodeTooltip": {
+    "description": "QR code tooltip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "alerts": "Alerts",
+  "@alerts": {
+    "description": "Alerts label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingsButton": "Things",
+  "@thingsButton": {
+    "description": "Title for the Things button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingName": "Name",
+  "@thingName": {
+    "description": "Thing name label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingNameTooltip": "Specify the name",
+  "@thingNameTooltip": {
+    "description": "Thing name tooltip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingDescription": "Description",
+  "@thingDescription": {
+    "description": "Thing description label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingDescriptionTooltip": "Short brief thing description",
+  "@thingDescriptionTooltip": {
+    "description": "Thing description tooltip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingColor": "Color",
+  "@thingColor": {
+    "description": "Thing color label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingColorTooltip": "Choose the thing display color",
+  "@thingColorTooltip": {
+    "description": "Thing color tooltip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingChooseColor": "Choose color",
+  "@thingChooseColor": {
+    "description": "Thing choose color label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingActivationDate": "Activation date",
+  "@thingActivationDate": {
+    "description": "Thing activation date label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingExpirationDate": "Expiration date",
+  "@thingExpirationDate": {
+    "description": "Thing expiration date label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingConfirmation": "Confirmation",
+  "@thingConfirmation": {
+    "description": "Thing confirmation label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingConfirmationTooltip": "Confirm the new thing",
+  "@thingConfirmationTooltip": {
+    "description": "Thing confirmation tooltip",
+    "type": "text",
+    "placeholders": {}
+  }
+}

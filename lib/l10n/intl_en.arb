@@ -1,0 +1,7 @@
+{
+  "title": "InnovateNow Tracker",
+  "@title": {
+    "description": "Title for the Tracker application",
+    "type": "text"
+  }
+}
